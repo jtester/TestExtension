@@ -1,4 +1,4 @@
 TestExtension
 =============
 
-A Joomla! CMS TEST extension
+A Joomla! CMS TEST extension.
