@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0">
+  <name>TestComponent</name>
+  <creationDate>20-Feb-2014</creationDate>
+  <author>Nikolai Plath</author>
+  <authorEmail>der.el.kuku@gmail.com</authorEmail>
+  <authorUrl>https://github.com/elkuku</authorUrl>
+  <copyright>C</copyright>
+  <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+  <version>1.0</version>
+  <description>A TEST hello world component</description>
+  <scriptfile/>
+  <install>
+    <sql/>
+  </install>
+  <uninstall>
+    <sql/>
+  </uninstall>
+  <update>
+    <schemas/>
+  </update>
+  <files folder="site">
+    <filename>testcomponent.php</filename>
+  </files>
+  <administration>
+    <menu>TestComponent</menu>
+    <files folder="admin">
+      <filename>testcomponent.php</filename>
+    </files>
+  </administration>
+  <params/>
+  <config/>
+</extension>
